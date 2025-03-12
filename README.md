@@ -1,4 +1,4 @@
-# ucsf_practicum_2025
+# UCSF Cancer Practicum 2024-2025
 
 As per the practicum deliverables from our USF mentor, Cody Carroll, we have been tasked with the following: "Along with the write up of your practicum, you should also submit a GitHub page with a complete and well-organized ReadMe which explains the details of your code. If you used branches to divide your work, they should be integrated so that the final code can be found on one main branch. The code must function such that an independent third party is able to reproduce the analysis, figures, and final results in your report."
 
