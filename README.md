@@ -8,6 +8,4 @@ At UCSF, we have been working on leveraging large language models (LLMs) to enha
 - A folder containing charts and visualizations of our results.
 - A folder containing relevant code of our methods and approaches
 
-**Note:** Due to the nature of the data, and in compliance with the Health Insurance Portability and Accountability Act (HIPAA), we only provide the base code and will not be including any scripts, notebooks, and the datasets themselves that will contain sensitive information. We ensure that anything that could potentially include that data is censored. Addtionally:
-
-- Andrea will attempt to make her work reproduceable by using synthetic and/or public datasets that closely resemble the original datasets. 
+**Note:** Due to the nature of the data, and in compliance with the Health Insurance Portability and Accountability Act (HIPAA), we only provide the base code and will not be including any scripts, notebooks, and the datasets themselves that will contain sensitive information. We ensure that anything that could potentially include that data is censored.
