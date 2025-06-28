@@ -5,7 +5,6 @@ As per the practicum deliverables from our USF mentor, Cody Carroll, we have bee
 At UCSF, we have been working on leveraging large language models (LLMs) to enhance cancer patient outcomes and prediction of cancer. The biggest hurdle we have faced is ensuring that the electronic health records (EHRs) notes aren't truncated by the models we used, and thus the problem of the long context window has come to the forefront in our project. The repository is organized as follows:
 
 - A folder of all the literature that has helped us throughout the practicum, both for our reports and the methods we ended up taking for our project.
-- A folder containing charts and visualizations of our results.
 - The scripts containing relevant code of our methods and approaches
 
 **Note:** Due to the nature of the data, and in compliance with the Health Insurance Portability and Accountability Act (HIPAA), we only provide the base code and will not be including any scripts, notebooks, and the datasets themselves that will contain sensitive information. We ensure that anything that could potentially include that data is censored.
